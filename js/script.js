@@ -1,0 +1,1 @@
+$(document).ready(function(){"use strict";$(".owl-carousel").owlCarousel({loop:!0,margin:0,nav:!0,items:1,navText:["<i class='bi bi-arrow-left'></i>","<i class='bi bi-arrow-right'></i>"],responsive:{0:{items:1},600:{items:1},1e3:{items:1}}})});
